@@ -1,0 +1,35 @@
+# Simple Node Tooltip
+
+Display tooltip for selected node in the Node Editor.
+
+## Description
+
+This Blender add-on allows you to display tooltips for selected nodes in the Node Editor. It adds a new option to the right-click menu in the Node Editor.
+
+## Requirements
+
+- Blender 2.93.0 or later
+
+## Installation
+
+1. Download the latest release of the add-on.
+2. In Blender, go to Edit > Preferences > Add-ons.
+3. Click on "Install..." and select the downloaded add-on file.
+4. Enable the "Simple Node Tooltip" add-on by checking the checkbox.
+
+## Usage
+
+1. Open the Node Editor.
+2. Right-click on a node to display its tooltip.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Author
+
+Vincent
+
+## Version
+
+1.1
